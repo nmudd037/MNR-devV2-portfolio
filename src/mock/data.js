@@ -8,7 +8,7 @@ export const headData = {
     'Web developer with over 2 + years of experience in designing and developing applications using HTML5, CSS3, JavaScript and React',
   keyword: 'Nithish, portfolio, web developer, javascript, react',
   image: 'https://raw.githubusercontent.com/nmudd037/previewImage/main/previewimg.jpg',
-  url: 'https://nithishrm-dev-portfolio.netlify.app/',
+  url: 'https://nithishrm-dev-v2portfolio.netlify.app/',
 };
 
 // HERO DATA
@@ -149,7 +149,7 @@ export const projectsData = [
     info2:
       'Used BEM naming convention and SASS preprocessor for more readable and maintainable CSS structure.',
     url: '', // if no url, the button will not show up
-    repo: 'https://github.com/nmudd037/MNR-devV1-portfolio', // if no repo, the button will not show up
+    repo: 'https://github.com/nmudd037/MNR-devV2-portfolio', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
