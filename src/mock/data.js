@@ -28,7 +28,7 @@ export const aboutData = {
     'Adept at monitoring and maintaining frontend performance, troubleshooting and debugging the same to bolster overall performance. Passionate about building scalable software, user-friendly solutions effectively and efficiently. Learning everyday to grow professionally in the field of web development.',
   paragraphThree: 'Take a look at some of my most recent personal projects below.',
   cta: 'Check My Work',
-  resume: '',
+  resume: 'https://drive.google.com/file/d/1NXXuFm15_N0GIHQmrnkKQ1ORujqfqiJn/view?usp=sharing',
   skills: [
     {
       id: nanoid(),
