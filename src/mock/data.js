@@ -196,6 +196,17 @@ export const projectsData = [
   {
     id: nanoid(),
     img: 'project5.jpg',
+    title: 'URL Shortener',
+    info:
+      'A full-stack web application using the MERN stack that lets user to get a shorter link and that can be used to redirect to their web site. Also, provides analytics like number of visitors to their shorter link. Implemented Context API and useReducer hook to create action creators and reducers.',
+    info2:
+      'Developed a simple RESTful API and server to handle the routes using the Node.js and Express with MongoDB(MongooseJS ODM) as the database.',
+    url: 'https://urlshortener-mnr.vercel.app/', // if no url, the button will not show up
+    repo: 'https://github.com/nmudd037/urlShortener', // if no repo, the button will not show up
+  },
+  {
+    id: nanoid(),
+    img: 'project6.jpg',
     title: 'Forkify Web App',
     info:
       'A MVC architecture based web application that loads over a million recipes from a 3rd party API using the fetch API. Implemented features like event handling using the publisher-subscriber pattern, pagination, bookmarks also stored them using the localStorage, developed a DOM updating algorithm to re-render only updated elements and a feature to upload new custom recipes.',
@@ -206,7 +217,7 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: 'project6.jpg',
+    img: 'project7.jpg',
     title: 'Natours - API',
     info:
       'A Dynamic Server-Side Rendered web application developed using Node.js, Express, Mongoose, MongoDB and Pug.js (Templating Engine) that lets user to look at available tours and allow them to book the tours.',
@@ -217,7 +228,7 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: 'project7.jpg',
+    img: 'project8.jpg',
     title: 'Nexter - Grid Layout',
     info:
       'A fully responsive single-page static website developed to conceptualize and understand the CSS Grid page layout with advanced CSS3 features like Media Queries, Transforms, and Animations.',
@@ -228,7 +239,7 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: 'project8.jpg',
+    img: 'project9.jpg',
     title: 'Trillo - Flexbox Layout',
     info:
       'A fully responsive single-page static website developed to conceptualize and understand the CSS Flexbox page layout with advanced CSS3 features like Media Queries, Transforms, and Animations.',
@@ -239,7 +250,7 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: 'project9.jpg',
+    img: 'project10.jpg',
     title: 'Natours - Float Layout',
     info:
       'A fully responsive static website developed to conceptualize and understand the CSS Float page layout with advanced CSS3 features like Media Queries, Transforms, Animations and Responsive Images.',
@@ -250,7 +261,7 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: 'project10.jpg',
+    img: 'project11.jpg',
     title: 'Bankist',
     info:
       'Developed a static website with modern JavaScript based features like smooth scrolling, tabbed components, page navigation effects, sticky navigation, revealing elements on scroll, lazy loading images, and a slider component using DOM manipulation, Intersection Observer API and Event Delegation.',
